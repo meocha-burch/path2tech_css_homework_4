@@ -1,0 +1,43 @@
+body {
+    background-color: #5E565A;
+    color: #F7FF58;
+}
+
+h1 {
+    text-align:center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+
+a {
+    line-height: 1.4;
+    color: #FF934F
+}
+a:hover,
+a:focus {
+    color:chocolate
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    color: #D0E588;
+    text-transform: uppercase;  
+}
+.head {
+    line-height: 2;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: #EFECCA;
+}
+
+.foot {
+    line-height: 2;
+    
+}
+.copy {
+    color: #A9CBB7
+}
